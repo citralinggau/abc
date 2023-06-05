@@ -6,7 +6,7 @@
 - Jika mendapatkan error pada status servis dalam jangka panjang, bisa restart servis yang dead.
 
 ### INSTALL SCRIPT
-<pre><code>apt install -y wget screen && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/citralinggau/abc/main/main.sh && chmod +x main.sh && screen -S install ./main.sh</code></pre>
+<pre><code>NGAFAIN LUWH KOMTOL😑👊</code></pre>
 
 
 ### TESTED ON OS 
